@@ -1,0 +1,21 @@
+validation 
+
+image validation back and front   +  image height 
+
+text editor
+
+preloader
+
+logo
+
+search
+
+pagination if needed
+
+sweet alert
+
+downlod plan and image order
+
+forget password
+
+git
